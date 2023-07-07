@@ -1,0 +1,11 @@
+Top 10 palabras más repetidas:
+you: 25
+is: 15
+to: 13
+i: 13
+of: 10
+can: 7
+in: 6
+t: 6
+life: 6
+what: 6
